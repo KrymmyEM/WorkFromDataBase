@@ -1,2 +1,2 @@
 # WorkFromDataBase
-Select psycopg 2
+Uses psycopg2
